@@ -1,5 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import "./carousel.scss";
+import "./Carousel.scss";
 
 import React from "react";
 
